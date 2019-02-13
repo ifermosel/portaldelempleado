@@ -1,5 +1,5 @@
 <?php
-   define('DB_SERVER', 'localhost');
+   define('DB_SERVER', '10.130.4.224');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', 'rootroot');
    define('DB_DATABASE', 'employees');
