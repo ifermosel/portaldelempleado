@@ -36,7 +36,7 @@
    </head>
    
    <body>
-      <h1>Bienvenido <?php echo $login_session ."(".$puesto.")";?></h1> 
+      <h1>Bienvenido <?php echo $login_session ;?></h1> 
 	  
 	  
 	  <nav class="dropdownmenu">
